@@ -40,6 +40,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**LargestRectangleArea**](./LargestRectangleArea)** - This solution finds the largest rectangle area in a histogram with O(n) time complexity.
 - **[**IntegerToEnglishWords**](./IntegerToEnglishWords)** - Converts a non-negative integer to its English words representation.
 - **[**FirstMissingPositive**](./FirstMissingPositive)** - Find the smallest missing positive integer in an unsorted array in O(n) time and constant space.
+- **[**Candy**](./Candy)** - Distribute the minimum candies to children based on their ratings, ensuring higher-rated children get more.
 
 ---
 
