@@ -31,6 +31,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**ReverseInteger**](./ReverseInteger)** - Find reverse of integer numbers.
 - **[**ZigzagConversion**](./ZigzagConversion)** - Convert a string into a zigzag pattern with a given number of rows and read it line by line.
 - **[**AddTwoNumbers**](./AddTwoNumbers)** - Add two numbers represented by linked lists in reverse order and return the sum as a linked list.
+- **[**SlidingWindowMaximum**](./SlidingWindowMaximum)** - Find the maximum value in each sliding window of a size as it moves across an array.
 
 ---
 
