@@ -1,4 +1,4 @@
-﻿// https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+﻿// https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 using LargestRectangleArea;
 using Shared.Helpers;
