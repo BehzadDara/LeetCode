@@ -39,6 +39,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**ExpressionAddOperators**](./ExpressionAddOperators)** - This problem generates all possible expressions by inserting +, -, and * between digits to evaluate to a target value.
 - **[**LargestRectangleArea**](./LargestRectangleArea)** - This solution finds the largest rectangle area in a histogram with O(n) time complexity.
 - **[**IntegerToEnglishWords**](./IntegerToEnglishWords)** - Converts a non-negative integer to its English words representation.
+- **[**FirstMissingPositive**](./FirstMissingPositive)** - Find the smallest missing positive integer in an unsorted array in O(n) time and constant space.
 
 ---
 
