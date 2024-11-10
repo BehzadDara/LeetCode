@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidNumber", "ValidNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionAddOperators", "ExpressionAddOperators\ExpressionAddOperators.csproj", "{19B568D7-472A-4EE0-ABB1-A38F658FE72A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestRectangleArea", "LargestRectangleArea\LargestRectangleArea.csproj", "{B1CA2098-AD49-46FF-8AB0-B5B9D8A8D7B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{19B568D7-472A-4EE0-ABB1-A38F658FE72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19B568D7-472A-4EE0-ABB1-A38F658FE72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19B568D7-472A-4EE0-ABB1-A38F658FE72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CA2098-AD49-46FF-8AB0-B5B9D8A8D7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA2098-AD49-46FF-8AB0-B5B9D8A8D7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA2098-AD49-46FF-8AB0-B5B9D8A8D7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA2098-AD49-46FF-8AB0-B5B9D8A8D7B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{62A26F63-8143-4A62-979B-AA6FDBB333B7} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{0D345A05-3F5F-48D9-A4AA-21CF96F402C2} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{19B568D7-472A-4EE0-ABB1-A38F658FE72A} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
+		{B1CA2098-AD49-46FF-8AB0-B5B9D8A8D7B6} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A76CA700-45F6-4D77-A278-DC5F2F561CF9}
