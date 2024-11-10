@@ -32,6 +32,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**ZigzagConversion**](./ZigzagConversion)** - Convert a string into a zigzag pattern with a given number of rows and read it line by line.
 - **[**AddTwoNumbers**](./AddTwoNumbers)** - Add two numbers represented by linked lists in reverse order and return the sum as a linked list.
 - **[**SlidingWindowMaximum**](./SlidingWindowMaximum)** - Find the maximum value in each sliding window of a size as it moves across an array.
+- **[**NumberOfDigitOne**](./NumberOfDigitOne)** - Count the total number of times the digit 1 appears in all non-negative integers less than or equal to a number.
 
 ---
 
