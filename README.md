@@ -38,6 +38,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**ValidNumber**](./ValidNumber)** - Validates whether a given string represents a valid number according to specific rules for decimal, integer, and scientific notation formats.
 - **[**ExpressionAddOperators**](./ExpressionAddOperators)** - This problem generates all possible expressions by inserting +, -, and * between digits to evaluate to a target value.
 - **[**LargestRectangleArea**](./LargestRectangleArea)** - This solution finds the largest rectangle area in a histogram with O(n) time complexity.
+- **[**IntegerToEnglishWords**](./IntegerToEnglishWords)** - Converts a non-negative integer to its English words representation.
 
 ---
 
