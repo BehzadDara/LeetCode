@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingWindowMaximum", "SlidingWindowMaximum\SlidingWindowMaximum.csproj", "{977B29BC-B363-4799-B4F6-00D049E56BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfDigitOne", "NumberOfDigitOne\NumberOfDigitOne.csproj", "{96EE2B30-7ADE-45F2-B924-8CF0B0538D56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{977B29BC-B363-4799-B4F6-00D049E56BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{977B29BC-B363-4799-B4F6-00D049E56BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{977B29BC-B363-4799-B4F6-00D049E56BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EE2B30-7ADE-45F2-B924-8CF0B0538D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EE2B30-7ADE-45F2-B924-8CF0B0538D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EE2B30-7ADE-45F2-B924-8CF0B0538D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EE2B30-7ADE-45F2-B924-8CF0B0538D56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{FB1FE8BA-A96D-42C6-A428-98830EF62060} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{8B4B0535-01B0-436B-B9C1-3EE64A018C7F} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{977B29BC-B363-4799-B4F6-00D049E56BFC} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
+		{96EE2B30-7ADE-45F2-B924-8CF0B0538D56} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A76CA700-45F6-4D77-A278-DC5F2F561CF9}
