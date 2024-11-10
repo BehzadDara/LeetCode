@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfDigitOne", "NumberO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarliestPossibleDayOfFullBloom", "EarliestPossibleDayOfFullBloom\EarliestPossibleDayOfFullBloom.csproj", "{3C9D417F-44E3-404D-B45C-5A48AA160344}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationSequence", "PermutationSequence\PermutationSequence.csproj", "{62A26F63-8143-4A62-979B-AA6FDBB333B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{3C9D417F-44E3-404D-B45C-5A48AA160344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C9D417F-44E3-404D-B45C-5A48AA160344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C9D417F-44E3-404D-B45C-5A48AA160344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A26F63-8143-4A62-979B-AA6FDBB333B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A26F63-8143-4A62-979B-AA6FDBB333B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A26F63-8143-4A62-979B-AA6FDBB333B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A26F63-8143-4A62-979B-AA6FDBB333B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{977B29BC-B363-4799-B4F6-00D049E56BFC} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{96EE2B30-7ADE-45F2-B924-8CF0B0538D56} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{3C9D417F-44E3-404D-B45C-5A48AA160344} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
+		{62A26F63-8143-4A62-979B-AA6FDBB333B7} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A76CA700-45F6-4D77-A278-DC5F2F561CF9}
