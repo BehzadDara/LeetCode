@@ -37,6 +37,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**PermutationSequence**](./PermutationSequence)** - Return the k-th permutation sequence of numbers from 1 to n.
 - **[**ValidNumber**](./ValidNumber)** - Validates whether a given string represents a valid number according to specific rules for decimal, integer, and scientific notation formats.
 - **[**ExpressionAddOperators**](./ExpressionAddOperators)** - This problem generates all possible expressions by inserting +, -, and * between digits to evaluate to a target value.
+- **[**LargestRectangleArea**](./LargestRectangleArea)** - This solution finds the largest rectangle area in a histogram with O(n) time complexity.
 
 ---
 
