@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMissingPositive", "Fir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candy", "Candy\Candy.csproj", "{D701919B-0AF1-43A7-8526-399F1FAC56F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater", "TrappingRainWater\TrappingRainWater.csproj", "{A0FE8DC8-8491-42C8-B3CF-0A5AC264A416}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{D701919B-0AF1-43A7-8526-399F1FAC56F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D701919B-0AF1-43A7-8526-399F1FAC56F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D701919B-0AF1-43A7-8526-399F1FAC56F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FE8DC8-8491-42C8-B3CF-0A5AC264A416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FE8DC8-8491-42C8-B3CF-0A5AC264A416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FE8DC8-8491-42C8-B3CF-0A5AC264A416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FE8DC8-8491-42C8-B3CF-0A5AC264A416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -123,6 +129,7 @@ Global
 		{3FA7731D-FB2A-4154-8990-ADC1CA79588B} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{E784999D-109E-4CF3-949A-3865A73507E8} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{D701919B-0AF1-43A7-8526-399F1FAC56F3} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
+		{A0FE8DC8-8491-42C8-B3CF-0A5AC264A416} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A76CA700-45F6-4D77-A278-DC5F2F561CF9}
