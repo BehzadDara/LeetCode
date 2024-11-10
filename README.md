@@ -34,6 +34,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**SlidingWindowMaximum**](./SlidingWindowMaximum)** - Find the maximum value in each sliding window of a size as it moves across an array.
 - **[**NumberOfDigitOne**](./NumberOfDigitOne)** - Count the total number of times the digit 1 appears in all non-negative integers less than or equal to a number.
 - **[**EarliestPossibleDayOfFullBloom**](./EarliestPossibleDayOfFullBloom)** - Calculate the earliest day when all flower seeds bloom, given their planting and growth times.
+- **[**PermutationSequence**](./PermutationSequence)** - Return the k-th permutation sequence of numbers from 1 to n.
 
 ---
 
