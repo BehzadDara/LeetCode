@@ -36,6 +36,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**EarliestPossibleDayOfFullBloom**](./EarliestPossibleDayOfFullBloom)** - Calculate the earliest day when all flower seeds bloom, given their planting and growth times.
 - **[**PermutationSequence**](./PermutationSequence)** - Return the k-th permutation sequence of numbers from 1 to n.
 - **[**ValidNumber**](./ValidNumber)** - Validates whether a given string represents a valid number according to specific rules for decimal, integer, and scientific notation formats.
+- **[**ExpressionAddOperators**](./ExpressionAddOperators)** - This problem generates all possible expressions by inserting +, -, and * between digits to evaluate to a target value.
 
 ---
 
