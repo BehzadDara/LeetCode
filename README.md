@@ -30,6 +30,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**3Sum**](./3Sum)** - Find every three indices in an array that add up to a zero.
 - **[**ReverseInteger**](./ReverseInteger)** - Find reverse of integer numbers.
 - **[**ZigzagConversion**](./ZigzagConversion)** - Convert a string into a zigzag pattern with a given number of rows and read it line by line.
+- **[**AddTwoNumbers**](./AddTwoNumbers)** - Add two numbers represented by linked lists in reverse order and return the sum as a linked list.
 
 ---
 
