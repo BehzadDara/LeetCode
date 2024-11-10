@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{56822E39-B71F-48FE-8313-AC0D99E7EEE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{9874D306-47D7-4A9A-951C-986EF28EDF5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{56822E39-B71F-48FE-8313-AC0D99E7EEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56822E39-B71F-48FE-8313-AC0D99E7EEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56822E39-B71F-48FE-8313-AC0D99E7EEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9874D306-47D7-4A9A-951C-986EF28EDF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9874D306-47D7-4A9A-951C-986EF28EDF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9874D306-47D7-4A9A-951C-986EF28EDF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9874D306-47D7-4A9A-951C-986EF28EDF5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{29064567-5276-44EC-83F8-5BE8DD7E3732} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{56822E39-B71F-48FE-8313-AC0D99E7EEE3} = {314E020C-B45C-495F-8B07-264F471B69CB}
+		{9874D306-47D7-4A9A-951C-986EF28EDF5D} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A76CA700-45F6-4D77-A278-DC5F2F561CF9}

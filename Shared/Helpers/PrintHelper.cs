@@ -2,6 +2,11 @@
 
 public static class PrintHelper
 {
+    public static void Print(this int item)
+    {
+        Console.WriteLine(item);
+    }
+
     public static void Print(this IList<int> list)
     {
         Console.WriteLine(string.Join(", ", list));
