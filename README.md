@@ -27,7 +27,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 
 ## 🔍 Projects
 
-- **[**3Sum**](./3Sum/README.md)** - Find every three indices in an array that add up to a zero.
+- **[**3Sum**](./3Sum)** - Find every three indices in an array that add up to a zero.
 
 ---
 
