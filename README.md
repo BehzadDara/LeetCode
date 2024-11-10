@@ -27,7 +27,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 
 ## 🔍 Projects
 
-- **Two Sum** - Find two indices in an array that add up to a target value.
+- **[**3Sum**](./3Sum/README.md)** - Find every three indices in an array that add up to a zero.
 
 ---
 
