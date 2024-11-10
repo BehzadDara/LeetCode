@@ -1,4 +1,6 @@
-﻿namespace Shared.Helpers;
+﻿using Shared.Classes;
+
+namespace Shared.Helpers;
 
 public static class PrintHelper
 {
@@ -23,5 +25,18 @@ public static class PrintHelper
         {
             item.Print();
         }
+    }
+
+    public static void Print(this ListNode? listNode)
+    {
+        var values = new List<int>();
+
+        while (listNode != null)
+        {
+            values.Add(listNode.val);
+            listNode = listNode.next;
+        }
+
+        Console.WriteLine(string.Join(" -> ", values));
     }
 }
