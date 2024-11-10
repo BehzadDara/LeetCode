@@ -24,6 +24,11 @@ public static class PrintHelper
         Console.WriteLine(string.Join(", ", list));
     }
 
+    public static void Print(this IList<string> list)
+    {
+        Console.WriteLine(string.Join(", ", list));
+    }
+
     public static void Print(this IList<IList<int>> list)
     {
         foreach (var item in list)
