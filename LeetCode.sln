@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestRectangleArea", "Lar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToEnglishWords", "IntegerToEnglishWords\IntegerToEnglishWords.csproj", "{3FA7731D-FB2A-4154-8990-ADC1CA79588B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMissingPositive", "FirstMissingPositive\FirstMissingPositive.csproj", "{E784999D-109E-4CF3-949A-3865A73507E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{3FA7731D-FB2A-4154-8990-ADC1CA79588B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FA7731D-FB2A-4154-8990-ADC1CA79588B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FA7731D-FB2A-4154-8990-ADC1CA79588B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E784999D-109E-4CF3-949A-3865A73507E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E784999D-109E-4CF3-949A-3865A73507E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E784999D-109E-4CF3-949A-3865A73507E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E784999D-109E-4CF3-949A-3865A73507E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +115,7 @@ Global
 		{19B568D7-472A-4EE0-ABB1-A38F658FE72A} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{B1CA2098-AD49-46FF-8AB0-B5B9D8A8D7B6} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 		{3FA7731D-FB2A-4154-8990-ADC1CA79588B} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
+		{E784999D-109E-4CF3-949A-3865A73507E8} = {11D4C145-FA42-4ACA-A486-404CC2AB9F2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A76CA700-45F6-4D77-A278-DC5F2F561CF9}
