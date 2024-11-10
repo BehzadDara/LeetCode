@@ -12,7 +12,7 @@ public static class Problem
         foreach (var isNumberExist in areNumbersExist.Select((value, index) => new { index, value }))
         {
             if (!isNumberExist.value)
-                return isNumberExist.index;
+                return isNumberExist.index + 1;
         }
         return nums.Length + 1;
     }
