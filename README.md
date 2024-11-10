@@ -35,6 +35,7 @@ This repository contains multiple projects, each of which is a standalone soluti
 - **[**NumberOfDigitOne**](./NumberOfDigitOne)** - Count the total number of times the digit 1 appears in all non-negative integers less than or equal to a number.
 - **[**EarliestPossibleDayOfFullBloom**](./EarliestPossibleDayOfFullBloom)** - Calculate the earliest day when all flower seeds bloom, given their planting and growth times.
 - **[**PermutationSequence**](./PermutationSequence)** - Return the k-th permutation sequence of numbers from 1 to n.
+- **[**ValidNumber**](./ValidNumber)** - Validates whether a given string represents a valid number according to specific rules for decimal, integer, and scientific notation formats.
 
 ---
 
